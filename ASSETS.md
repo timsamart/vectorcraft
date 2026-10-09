@@ -331,3 +331,11 @@ Generated-in-code art is original and has no file to list. This covers the defau
 | `examples/ribbons.vectorcraft` | VectorCraft contributors | Original artwork built through the VectorCraft command API | MIT OR Apache-2.0 |  |
 | `examples/feature-sheet.vectorcraft` | VectorCraft contributors | Original artwork built through the VectorCraft command API | MIT OR Apache-2.0 |  |
 | `examples/perspective-city.vectorcraft` | VectorCraft contributors | Original artwork built through the VectorCraft command API | MIT OR Apache-2.0 |  |
+
+## Independent custom desktop icons
+
+| Path | Title | Creator | Source | Licence | Added | Modifications |
+|---|---|---|---|---|---|---|
+| `custom-icons/` | VectorCraft custom shortcut icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work; `custom-icons/generation-prompt.txt` | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted from one sheet; resized and packaged with Pillow |
+| `custom-icons/vectorcraft.png` | Custom desktop icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted and resized with Pillow |
+| `custom-icons/vectorcraft.ico` | Custom desktop icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted and resized with Pillow |
